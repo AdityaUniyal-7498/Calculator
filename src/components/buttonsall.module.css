@@ -1,0 +1,23 @@
+.buttonsall{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 1px;
+
+
+  button{
+    height: 100px;
+    width: 129.5px;
+    font-size: 40px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 30%;
+
+  }
+  
+
+  
+
+}

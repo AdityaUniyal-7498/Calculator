@@ -1,0 +1,15 @@
+
+input{
+  height: 100px;
+  width: 98%;
+  text-align: center;
+  font-family: fantasy;
+  font:900;
+  color: black;
+  background-color: whitesmoke;
+}
+
+#iinput{
+  font-size: 30px;
+  background-color: black;
+}
